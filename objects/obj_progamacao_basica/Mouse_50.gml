@@ -1,0 +1,1 @@
+show_message("Botão esquerdo do mouse pressionado")
