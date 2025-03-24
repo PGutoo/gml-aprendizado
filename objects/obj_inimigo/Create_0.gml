@@ -1,1 +1,1 @@
-hspeed = -2.5
+hspeed = random_range(-2.5, -4)
